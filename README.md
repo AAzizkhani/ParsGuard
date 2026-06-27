@@ -10,7 +10,7 @@
 
 ## Overview
 
-This project is a lightweight **real-time strategy prototype** built in Unity. Based on the available source files, the core gameplay loop includes:
+This project is a lightweight **real-time strategy prototype** built in Unity. The core gameplay loop includes:
 
 - selecting units
 - clicking on the ground to move
